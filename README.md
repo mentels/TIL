@@ -1,12 +1,11 @@
 # TIL
 
-> A community-driven Today I Learned initiative.
+My personal *Today I Learned* inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-A collection of concise write-ups on small things we learn day to day across a
-variety of languages and technologies. These are things that don't really
-warrant a full blog post.
-
-Did you learn something today? Please [contribute](CONTRIBUTING.md)!
+This a collection of small things that I learn on daily basis in the software
+engineering world. This is not only a record of my journey through tech but also
+a way to capture stuff that I find useful and don't want to forget. Finally, it's
+about practising writing.
 
 _1 TIL and counting..._
 
