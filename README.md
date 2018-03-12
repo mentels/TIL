@@ -15,6 +15,11 @@ _1 TIL and counting..._
 
 ---
 
+## Git
+
+- [Push an empty commit](git/push-and-empty-commit.md)
+- [List all conflicted files](git/list-all-conflicted-flies.md)
+
 ## Vim
 
 - [Count The Number Of Matches](vim/count-the-number-of-matches.md)
