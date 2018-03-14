@@ -7,15 +7,20 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_4 TIL and counting..._
+_5 TIL and counting..._
 
 ## Categories
 
+* [Ansible](#ansible)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Vim](#vim)
 
 ---
+
+## Ansible
+
+- [Tell jinja2 not to template data](ansible/tell-jinja2-not-to-template-data.md)
 
 ## Erlang
 
