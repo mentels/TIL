@@ -7,13 +7,15 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_5 TIL and counting..._
+_8 TIL and counting..._
 
 ## Categories
 
 * [Ansible](#ansible)
 * [Erlang](#erlang)
 * [Git](#git)
+* [JavaScript](#javascript)
+* [Shell](#shell)
 * [Vim](#vim)
 
 ---
@@ -30,6 +32,15 @@ _5 TIL and counting..._
 
 - [Push an empty commit](git/push-and-empty-commit.md)
 - [List all conflicted files](git/list-all-conflicted-flies.md)
+
+## JavaScript
+
+- [Maps are different from objects](javascript/maps-are-different-from-objects.md)
+- [Map over map](javascript/map-over-map.md)
+
+## Shell
+
+- [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
 
 ## Vim
 
