@@ -7,7 +7,7 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_8 TIL and counting..._
+_13 TIL and counting..._
 
 ## Categories
 
