@@ -41,6 +41,9 @@ _8 TIL and counting..._
 
 ## Shell
 
+- [Format a nice timestamp](shell/format-nice-timestamp.md)
+- [Increment a variable](shell/increment-a-variable.md)
+- [Iterate over pairs of items](shel/iterate-over-pairs-of-items.md)
 - [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
 
 ## Vim
