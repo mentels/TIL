@@ -7,7 +7,7 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_13 TIL and counting..._
+_14 TIL and counting..._
 
 ## Categories
 
@@ -15,6 +15,7 @@ _13 TIL and counting..._
 * [Erlang](#erlang)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Sed](#sed)
 * [Shell](#shell)
 * [Vim](#vim)
 
@@ -38,6 +39,10 @@ _13 TIL and counting..._
 
 - [Maps are different from objects](javascript/maps-are-different-from-objects.md)
 - [Map over map](javascript/map-over-map.md)
+
+## Sed
+
+- [Replace lines in file](sed/replace-lines-in-file.md)
 
 ## Shell
 
