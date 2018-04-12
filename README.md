@@ -7,7 +7,7 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_15 TIL and counting..._
+_16 TIL and counting..._
 
 ## Categories
 
@@ -25,6 +25,7 @@ _15 TIL and counting..._
 ## Ansible
 
 - [Tell jinja2 not to template data](ansible/tell-jinja2-not-to-template-data.md)
+- [Repeat task until certain criteria is met](ansible/repeat-ansible-task-until-certain-criteria-is-met.md)
 
 ## Docker
 
