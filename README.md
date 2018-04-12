@@ -7,11 +7,12 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_14 TIL and counting..._
+_15 TIL and counting..._
 
 ## Categories
 
 * [Ansible](#ansible)
+* [Docker](#docker)
 * [Erlang](#erlang)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -24,6 +25,10 @@ _14 TIL and counting..._
 ## Ansible
 
 - [Tell jinja2 not to template data](ansible/tell-jinja2-not-to-template-data.md)
+
+## Docker
+
+- [Get IP address of a container](docker/get-ip-address-of-a-container.md)
 
 ## Erlang
 
