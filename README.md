@@ -12,6 +12,7 @@ _16 TIL and counting..._
 ## Categories
 
 * [Ansible](#ansible)
+* [Curl](#curl)
 * [Docker](#docker)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -26,6 +27,10 @@ _16 TIL and counting..._
 
 - [Tell jinja2 not to template data](ansible/tell-jinja2-not-to-template-data.md)
 - [Repeat task until certain criteria is met](ansible/repeat-ansible-task-until-certain-criteria-is-met.md)
+
+## Curl
+
+- [Request an URL with basic auth](curl/request-url-with-basic-auth.md)
 
 ## Docker
 
@@ -56,6 +61,10 @@ _16 TIL and counting..._
 - [Increment a variable](shell/increment-a-variable.md)
 - [Iterate over pairs of items](shel/iterate-over-pairs-of-items.md)
 - [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
+
+## SSL/TLS
+
+- [Generate chain of x590 v3 certificates](ssl_tls/generate_chain_of_x590_v3_certificates.md)
 
 ## Vim
 
