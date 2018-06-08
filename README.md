@@ -7,7 +7,7 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_16 TIL and counting..._
+_17 TIL and counting..._
 
 ## Categories
 
@@ -31,6 +31,7 @@ _16 TIL and counting..._
 ## Curl
 
 - [Request an URL with basic auth](curl/request-url-with-basic-auth.md)
+- [PUT/POST JSON](curl/put-post-json.md)
 
 ## Docker
 
