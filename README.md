@@ -62,6 +62,7 @@ _17 TIL and counting..._
 - [Increment a variable](shell/increment-a-variable.md)
 - [Iterate over pairs of items](shel/iterate-over-pairs-of-items.md)
 - [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
+- [Get the last match in a file and the following lines](shell/get-the-last-match-in-a-file-and-the-following-lines.md)
 
 ## SSL/TLS
 
