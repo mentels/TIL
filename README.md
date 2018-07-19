@@ -7,7 +7,7 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_17 TIL and counting..._
+_19 TIL and counting..._
 
 ## Categories
 
@@ -63,6 +63,7 @@ _17 TIL and counting..._
 - [Iterate over pairs of items](shel/iterate-over-pairs-of-items.md)
 - [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
 - [Get the last match in a file and the following lines](shell/get-the-last-match-in-a-file-and-the-following-lines.md)
+- [Remove string prefix and suffix](shell/remove-string-prefix-and-suffix.md)
 
 ## SSL/TLS
 
