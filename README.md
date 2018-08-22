@@ -7,16 +7,18 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_19 TIL and counting..._
+_20 TIL and counting..._
 
 ## Categories
 
 * [Ansible](#ansible)
 * [Curl](#curl)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Linux](#linux)
 * [Sed](#sed)
 * [Shell](#shell)
 * [Vim](#vim)
@@ -36,6 +38,10 @@ _19 TIL and counting..._
 ## Docker
 
 - [Get IP address of a container](docker/get-ip-address-of-a-container.md)
+
+## Elixir
+
+- [Find Erlang/OTP version for a BEAM file](elixir/find-erlang-otp-version-for-a-beam-file.md)
 
 ## Erlang
 
