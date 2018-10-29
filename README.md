@@ -70,6 +70,7 @@ _20 TIL and counting..._
 - [Print a range of commands from history](shell/print-a-range-of-commands-from-history.md)
 - [Get the last match in a file and the following lines](shell/get-the-last-match-in-a-file-and-the-following-lines.md)
 - [Remove string prefix and suffix](shell/remove-string-prefix-and-suffix.md)
+- [Print lines from a file between patterns](shell/print-lines-from-a-file-between-patterns.md)
 
 ## SSL/TLS
 
