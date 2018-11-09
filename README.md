@@ -46,6 +46,7 @@ _20 TIL and counting..._
 ## Erlang
 
 - [Parse Code as String and Evalute it](erlang/parse-code-as-string-and-evaluate-it.md)
+- [Fix shell after killing rebar3 shell](erlang/fix_shell_after_killing_rebar3_shell.md)
 
 ## Git
 
