@@ -53,6 +53,7 @@ _20 TIL and counting..._
 - [Prepare a single-file patch and apply it](git/prepare-a-single-file-patch-and-apply-id.md)
 - [Push an empty commit](git/push-and-empty-commit.md)
 - [List all conflicted files](git/list-all-conflicted-flies.md)
+- [Checkout only a subdirectory](git/checkout-only-a-subdirectory.md)
 
 ## JavaScript
 
