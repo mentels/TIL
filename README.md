@@ -19,6 +19,7 @@ _20 TIL and counting..._
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [Make](#make)
 * [Sed](#sed)
 * [Shell](#shell)
 * [Vim](#vim)
@@ -60,6 +61,12 @@ _20 TIL and counting..._
 
 - [Maps are different from objects](javascript/maps-are-different-from-objects.md)
 - [Map over map](javascript/map-over-map.md)
+
+## Linux
+
+## Make
+
+- [Keep going when a target fails or ignore specific errors of a recipe](make/keep-going-when-a-target-fails-or-ignore-specific-errors-of-a-recipe)
 
 ## Sed
 
