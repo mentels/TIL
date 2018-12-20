@@ -56,6 +56,7 @@ _20 TIL and counting..._
 - [Push an empty commit](git/push-and-empty-commit.md)
 - [List all conflicted files](git/list-all-conflicted-flies.md)
 - [Checkout only a subdirectory](git/checkout-only-a-subdirectory.md)
+- [Trun a repo subdirectory into a separate repo](git/turn_a_repo_subdirectory_into_a_separate_repo.md)
 
 ## JavaScript
 
