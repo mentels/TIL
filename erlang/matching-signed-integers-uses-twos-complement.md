@@ -17,5 +17,5 @@ the value of the negative number (most significant bit set to 1) we reverse all 
 30> D.
 129
 31> C.
--127 % 10000001 = -126 - 1 = -127
+-127 % 01111110 = -126 - 1 = -127
 ```
