@@ -11,18 +11,22 @@ _20 TIL and counting..._
 
 ## Categories
 
-* [Ansible](#ansible)
-* [Curl](#curl)
-* [Docker](#docker)
-* [Elixir](#elixir)
-* [Erlang](#erlang)
-* [Git](#git)
-* [JavaScript](#javascript)
-* [Linux](#linux)
-* [Make](#make)
-* [Sed](#sed)
-* [Shell](#shell)
-* [Vim](#vim)
+- [TIL](#til)
+  - [Categories](#categories)
+  - [Ansible](#ansible)
+  - [Curl](#curl)
+  - [Docker](#docker)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [Git](#git)
+  - [JavaScript](#javascript)
+  - [Linux](#linux)
+  - [Make](#make)
+  - [RabbitMQ](#rabbitmq)
+  - [Sed](#sed)
+  - [Shell](#shell)
+  - [SSL/TLS](#ssltls)
+  - [Vim](#vim)
 
 ---
 
@@ -65,9 +69,15 @@ _20 TIL and counting..._
 
 ## Linux
 
+- [Check MX record for a domain](linux/check-mx-record-for-a-domain.md)
+
 ## Make
 
 - [Keep going when a target fails or ignore specific errors of a recipe](make/keep-going-when-a-target-fails-or-ignore-specific-errors-of-a-recipe)
+
+## RabbitMQ
+
+- [Connect to a node via remote shell](rabbitmq/connect-to-a-node-via-remote-shell.md)
 
 ## Sed
 
