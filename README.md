@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_20 TIL and counting..._
+_29 TIL and counting..._
+
 
 ## Categories
 
@@ -81,6 +82,7 @@ _20 TIL and counting..._
 
 ## Sed
 
+- [Use environment variable with replacement](sed/use-environment-variable-with-replacement.md)
 - [Replace lines in file](sed/replace-lines-in-file.md)
 
 ## Shell
