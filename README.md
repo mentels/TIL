@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_29 TIL and counting..._
+_30 TIL and counting..._
+
 
 
 ## Categories
@@ -87,6 +88,7 @@ _29 TIL and counting..._
 
 ## Shell
 
+- [Produce sequence of arbitrary strings](shell/produce-sequence-of-arbitrary-strings.md)
 - [Format a nice timestamp](shell/format-nice-timestamp.md)
 - [Increment a variable](shell/increment-a-variable.md)
 - [Iterate over pairs of items](shel/iterate-over-pairs-of-items.md)
