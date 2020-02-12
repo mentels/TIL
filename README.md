@@ -9,8 +9,6 @@ about practising writing.
 
 _30 TIL and counting..._
 
-
-
 ## Categories
 
 - [TIL](#til)

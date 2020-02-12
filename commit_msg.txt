@@ -1,1 +1,1 @@
-[shell]: Produce sequence of arbitrary strings
+[sed]: Use environment variable with replacement
