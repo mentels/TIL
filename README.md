@@ -7,13 +7,15 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_30 TIL and counting..._
+_32 TIL and counting..._
+
 
 ## Categories
 
 - [TIL](#til)
   - [Categories](#categories)
   - [Ansible](#ansible)
+  - [Awk](#awk)
   - [Curl](#curl)
   - [Docker](#docker)
   - [Elixir](#elixir)
@@ -35,6 +37,10 @@ _30 TIL and counting..._
 - [Tell jinja2 not to template data](ansible/tell-jinja2-not-to-template-data.md)
 - [Repeat task until certain criteria is met](ansible/repeat-ansible-task-until-certain-criteria-is-met.md)
 
+## Awk
+
+- [Print CSV file fields based on other fields properties](awk/print-csv-file-fields-based-on-other-fields-properties.md)
+- [Print CSV file fields based on other fields properties](awk/print-csv-file-fields-based-on-other-fields-properties.md)
 ## Curl
 
 - [Request an URL with basic auth](curl/request-url-with-basic-auth.md)
