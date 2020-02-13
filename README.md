@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_32 TIL and counting..._
+_33 TIL and counting..._
+
 
 
 ## Categories
@@ -40,7 +41,7 @@ _32 TIL and counting..._
 ## Awk
 
 - [Print CSV file fields based on other fields properties](awk/print-csv-file-fields-based-on-other-fields-properties.md)
-- [Print CSV file fields based on other fields properties](awk/print-csv-file-fields-based-on-other-fields-properties.md)
+
 ## Curl
 
 - [Request an URL with basic auth](curl/request-url-with-basic-auth.md)
@@ -52,6 +53,7 @@ _32 TIL and counting..._
 
 ## Elixir
 
+- [Skip a test in ExUnit](elixir/skip-a-test-in-exunit.md)
 - [Find Erlang/OTP version for a BEAM file](elixir/find-erlang-otp-version-for-a-beam-file.md)
 
 ## Erlang
