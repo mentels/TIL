@@ -17,6 +17,12 @@ To apply it:
 git am feature.patch
 ```
 
+or with several patch files:
+
+```bash
+git am *.patch
+```
+
 If the patch doesn't apply fall back on 3-way merge (possibly leaving merge markers):
 
 ```bash
