@@ -13,6 +13,7 @@ _35 TIL and counting..._
 
 
 
+
 ## Categories
 
 - [TIL](#til)
@@ -67,6 +68,7 @@ _35 TIL and counting..._
 
 ## Git
 
+- [Find out a tracking branch](git/find-out-a-tracking-branch.md)
 - [Stop tracking a file](git/stop-tracking-a-file.md)
 - [Prepare a single-file patch and apply it](git/prepare-a-single-file-patch-and-apply-id.md)
 - [Push an empty commit](git/push-and-empty-commit.md)
