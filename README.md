@@ -7,7 +7,9 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_35 TIL and counting..._
+_37 TIL and counting..._
+
+
 
 
 
@@ -25,6 +27,7 @@ _35 TIL and counting..._
   - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Git](#git)
+  - [GPG](#gpg)
   - [JavaScript](#javascript)
   - [Linux](#linux)
   - [Make](#make)
@@ -57,6 +60,7 @@ _35 TIL and counting..._
 
 ## Elixir
 
+- [Use `with` to pattern match only on a success case](elixir/use-with-to-pattern-match-only-on-a-success-case.md)
 - [Skip a test in ExUnit](elixir/skip-a-test-in-exunit.md)
 - [Find Erlang/OTP version for a BEAM file](elixir/find-erlang-otp-version-for-a-beam-file.md)
 
@@ -76,6 +80,11 @@ _35 TIL and counting..._
 - [Checkout only a subdirectory](git/checkout-only-a-subdirectory.md)
 - [Trun a repo subdirectory into a separate repo](git/turn_a_repo_subdirectory_into_a_separate_repo.md)
 
+## GPG
+
+
+
+- [Move keys between machines](gpg/move-keys-between-machines.md)
 ## JavaScript
 
 - [Maps are different from objects](javascript/maps-are-different-from-objects.md)
