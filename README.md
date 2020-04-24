@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_37 TIL and counting..._
+_38 TIL and counting..._
+
 
 
 
@@ -60,6 +61,7 @@ _37 TIL and counting..._
 
 ## Elixir
 
+- [`nil` can give unexpected results combined with the Access protocol](elixir/nil-can-give-unexpected-results-combined-with-the-access-protocol.md)
 - [Use `with` to pattern match only on a success case](elixir/use-with-to-pattern-match-only-on-a-success-case.md)
 - [Skip a test in ExUnit](elixir/skip-a-test-in-exunit.md)
 - [Find Erlang/OTP version for a BEAM file](elixir/find-erlang-otp-version-for-a-beam-file.md)

@@ -1,4 +1,4 @@
-## Use  to pattern match only on a success case
+## Use `with` to pattern match only on a success case
 
 To pattern match only on a success case like `{:ok, res}` without
 matching on `{:error, error}` with can be used:
