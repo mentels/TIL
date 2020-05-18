@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_38 TIL and counting..._
+_39 TIL and counting..._
+
 
 
 
@@ -74,6 +75,7 @@ _38 TIL and counting..._
 
 ## Git
 
+- [Remove file from repo without removing local copy](git/remove-file-from-repo-without-removing-local-copy.md)
 - [Find out a tracking branch](git/find-out-a-tracking-branch.md)
 - [Stop tracking a file](git/stop-tracking-a-file.md)
 - [Prepare a single-file patch and apply it](git/prepare-a-single-file-patch-and-apply-id.md)
