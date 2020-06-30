@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_42 TIL and counting..._
+_43 TIL and counting..._
+
 
 
 
@@ -78,6 +79,7 @@ _42 TIL and counting..._
 
 ## Git
 
+- [Fixup and Autosquash](git/fixup-and-autosquash.md)
 - [Stage only deleted files](git/stage-only-deleted-files.md)
 - [Add only untracked files to the index](git/add-only-untracked-files-to-the-index.md)
 - [Ignore files locally](git/ignore-files-locally.md)
