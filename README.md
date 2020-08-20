@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_43 TIL and counting..._
+_44 TIL and counting..._
+
 
 
 
@@ -112,6 +113,7 @@ _43 TIL and counting..._
 
 ## PostgreSQL
 
+- [How to check table's indices?](postgresql/how-to-check-tables-indices.md)
 - [Run PostgreSQL in a docker container](postgresql/run-postgresql-in-a-docker-container.md)
 
 ## RabbitMQ
