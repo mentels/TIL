@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_46 TIL and counting..._
+_47 TIL and counting..._
+
 
 
 
@@ -83,6 +84,7 @@ _46 TIL and counting..._
 
 ## Git
 
+- [Undo rebase](git/undo-rebase.md)
 - [Work with multiple branches at a time](git/work-with-multiple-branches-at-a-time.md)
 - [Fixup and Autosquash](git/fixup-and-autosquash.md)
 - [Stage only deleted files](git/stage-only-deleted-files.md)
