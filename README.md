@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_47 TIL and counting..._
+_48 TIL and counting..._
+
 
 
 
@@ -84,6 +85,7 @@ _47 TIL and counting..._
 
 ## Git
 
+- [Checkout a file from another branch](git/checkout-a-file-from-another-branch.md)
 - [Undo rebase](git/undo-rebase.md)
 - [Work with multiple branches at a time](git/work-with-multiple-branches-at-a-time.md)
 - [Fixup and Autosquash](git/fixup-and-autosquash.md)
