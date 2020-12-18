@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_52 TIL and counting..._
+_53 TIL and counting..._
+
 
 
 
@@ -133,6 +134,7 @@ _52 TIL and counting..._
 
 ## RabbitMQ
 
+- [Execute an Erlang snippet on a node in container](rabbitmq/execute-an-erlang-snippet-on-a-node-in-container.md)
 - [Wait for the node/app to start/stop](rabbitmq/wait-for-the-node-app-to-start-stop.md)
 - [Connect to a node via remote shell](rabbitmq/connect-to-a-node-via-remote-shell.md)
 
