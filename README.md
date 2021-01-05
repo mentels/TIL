@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_53 TIL and counting..._
+_54 TIL and counting..._
+
 
 
 
@@ -90,6 +91,7 @@ _53 TIL and counting..._
 
 ## Git
 
+- [Checkout previous branch](git/checkout-previous-branch.md)
 - [Grep commit message or contents](git/grep-commit-message-or-contents.md)
 - [Remove remote git tag](git/remove-remote-git-tag.md)
 - [List all modified files](git/list-all-modified-files.md)
