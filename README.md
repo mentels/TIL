@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_55 TIL and counting..._
+_56 TIL and counting..._
+
 
 
 
@@ -133,6 +134,7 @@ _55 TIL and counting..._
 
 ## PostgreSQL
 
+- [Check if JSONB array contains element](postgresql/check-if-jsonb-array-contains-element.md)
 - [How to check table's indices?](postgresql/how-to-check-tables-indices.md)
 - [Run PostgreSQL in a docker container](postgresql/run-postgresql-in-a-docker-container.md)
 
