@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_57 TIL and counting..._
+_58 TIL and counting..._
+
 
 
 
@@ -80,6 +81,7 @@ _57 TIL and counting..._
 
 ## Elixir
 
+- [Row-level locking](elixir/row-level-locking.md)
 - [Testing macros with Code.eval_string/3](elixir/testing-macros-with-code-eval-string-3.md)
 - [`nil` can give unexpected results combined with the Access protocol](elixir/nil-can-give-unexpected-results-combined-with-the-access-protocol.md)
 - [Use `with` to pattern match only on a success case](elixir/use-with-to-pattern-match-only-on-a-success-case.md)
