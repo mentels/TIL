@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_58 TIL and counting..._
+_59 TIL and counting..._
+
 
 
 
@@ -96,6 +97,7 @@ _58 TIL and counting..._
 
 ## Git
 
+- [Choose version of a file when both added](git/choose-version-of-a-file-when-both-added.md)
 - [List untracked files](git/list-untracked-files.md)
 - [Copy current branch to the clipboard](git/copy-current-branch-to-the-clipboard.md)
 - [Checkout previous branch](git/checkout-previous-branch.md)
