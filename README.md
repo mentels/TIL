@@ -7,7 +7,8 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_59 TIL and counting..._
+_60 TIL and counting..._
+
 
 
 
@@ -97,6 +98,7 @@ _59 TIL and counting..._
 
 ## Git
 
+- [Turn object reference into SHA-1 (e.g. HEAD)](git/turn-object-reference-into-sha-1-e-g-head.md)
 - [Choose version of a file when both added](git/choose-version-of-a-file-when-both-added.md)
 - [List untracked files](git/list-untracked-files.md)
 - [Copy current branch to the clipboard](git/copy-current-branch-to-the-clipboard.md)
