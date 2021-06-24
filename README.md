@@ -7,7 +7,9 @@ engineering world. This is not only a record of my journey through tech but also
 a way to capture stuff that I find useful and don't want to forget. Finally, it's
 about practising writing.
 
-_61 TIL and counting..._
+_63 TIL and counting..._
+
+
 
 
 
@@ -99,6 +101,8 @@ _61 TIL and counting..._
 
 ## Git
 
+- [Print files from a commit](git/print-files-from-a-commit.md)
+- [Update branch after force push](git/update-branch-after-force-push.md)
 - [Revert merge commit](git/revert-merge-commit.md)
 - [Turn object reference into SHA-1 (e.g. HEAD)](git/turn-object-reference-into-sha-1-e-g-head.md)
 - [Choose version of a file when both added](git/choose-version-of-a-file-when-both-added.md)
