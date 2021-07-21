@@ -13,3 +13,10 @@ git worktree add ../my_repo another_branch
 # do the work
 git worktree remove ../my_repo
 ```
+
+To easily switch between the worktrees use the [wt](https://github.com/yankeexe/git-worktree-switcher) utility:
+
+```
+wt list
+wt develop
+```
